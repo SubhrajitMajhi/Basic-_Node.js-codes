@@ -1,3 +1,4 @@
+//without using inbuilt functions
 function sort(array,n)
 {
     var i=0
